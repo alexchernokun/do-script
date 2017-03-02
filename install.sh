@@ -3,7 +3,7 @@ echo "Welcome to DO-script installation!"
 sleep 1; echo "I will check whether you already have 'scripts' directory and if not - create it for you."
 sleep 1; echo "Checking:"
 sleep 1;
-DIRECTORY="~/scripts"
+DIRECTORY="/home/$USER/scripts"
 if [ -d $DIRECTORY ]; then
     echo "Directory 'scripts' already exists --> moving DNSes files to the 'scripts' folder:";
     sleep 1; echo "In progress...";
