@@ -5,8 +5,8 @@ sleep 1; echo "Checking:"
 sleep 1;
 DIRECTORY="/home/$USER/scripts"
 if [ -d $DIRECTORY ]; then
-    echo "Directory 'scripts' already exists --> moving DNSes files to the 'scripts' folder:";
-    sleep 1; echo "In progress...";
+    echo "Directory 'scripts' already exists --> moving DNSes files to the 'scripts' folder:"
+    sleep 1; echo "In progress..."
 else
     echo "Directory ‘scripts’ doesn't exist --> creating 'scripts' directory:";
     sleep 1; echo "In progress..."
