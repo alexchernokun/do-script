@@ -34,4 +34,4 @@ to access the server using domain:
 do domain.com
 ```
 
-###AUTHOR: Alex Chernokun.
+###AUTHOR: Eugene N.
