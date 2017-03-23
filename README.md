@@ -1,9 +1,9 @@
 # do-script
 
-###DESCRIPTION:
+### DESCRIPTION:
 script helps to connect to the server using a domain
 
-###INSTALLATION:
+### INSTALLATION:
 1) Clone a repo from GitHub:
 - for old troll
 ```shell
@@ -28,10 +28,10 @@ cd ~; rm -rf master.zip do-script-master/
 ```
 4) Start using.
 
-###USAGE:
+### USAGE:
 to access the server using domain:
 ```shell
 do domain.com
 ```
 
-###AUTHOR: Eugene N.
+### AUTHOR: Eugene N.
